@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;600;800&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.logo{
+    font-weight: 600;
+}
+.home{
+    color: #F875AA;
+}
+.top_Ad{
+    background-color: black;
+}
+.ad{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.saleText{
+    color: #F875AA;
+    font-size: 96px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.sale{
+    color: #FFF6F6;
+}
+.navbar_Container{
+    background-color: #FFF6F6;
+}
+.nav-item{
+    font-weight: 800;
+}
+.footer{
+    background-color: black;
+    color: #FFF6F6;
+}
+.footer_links{
+    color: #FFF6F6;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-top: 50px;
+}
